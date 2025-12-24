@@ -12,6 +12,10 @@
 ### Physical
 
 - species: high elf
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/19615587/JMfglI)
 - class: Druid (Circle of the Land)
 
 ## History

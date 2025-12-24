@@ -17,6 +17,10 @@
 ### Physical
 
 - species: wood elf
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/40902638/64Qvlo)
 - class: Monk (Warrior of Shadow)
 
 ## Relationships

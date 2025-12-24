@@ -12,6 +12,10 @@
 ### Physical
 
 - species: high elf
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/42115543/wsIxLY)
 - class: Rogue (Arcane Trickster)
 
 ## Personality

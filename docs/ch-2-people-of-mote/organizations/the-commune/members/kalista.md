@@ -13,12 +13,16 @@
 ### Physical
 
 - species: tiefling
-- class: Bard (College of Whispers)
 - height: 6'6"
 - weight: 248 lbs.
 - skin: purple
 - hair: black
 - eyes: gold
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/28354996/pdeHi0)
+- class: Bard (College of Whispers)
 
 ## History
 

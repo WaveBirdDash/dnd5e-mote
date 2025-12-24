@@ -17,12 +17,16 @@
 ### Physical
 
 - species: stout halfling
-- class: Ranger (Hunter)
 - age: 35
 - height: 2'11"
 - weight: 39 lb.
 - eyes: blue
 - hair: black
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/40403439/Taw1Ib)
+- class: Ranger (Hunter)
 
 ## History
 

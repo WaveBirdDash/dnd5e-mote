@@ -12,4 +12,8 @@
 ### Physical
 
 - species: human
+
+### Game Statistics
+
+- [character sheet]https://www.dndbeyond.com/characters/64107614/T3AIr5
 - class: Fighter (Eldritch Knight)

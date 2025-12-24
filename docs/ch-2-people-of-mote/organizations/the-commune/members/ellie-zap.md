@@ -17,12 +17,16 @@
 ### Physical
 
 - species: tabaxi
-- class: Cleric (Twilight Domain)
 - age: 12
 - height: 5'6"
 - weight: 39 lb.
 - eyes: hazel (turn yellow when angry)
 - hair: gray, red, and black fur
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/157988975/b8Z7Ur)
+- class: Cleric (Twilight Domain)
 
 ## History
 

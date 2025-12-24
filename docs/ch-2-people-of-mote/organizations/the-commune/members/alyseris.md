@@ -12,6 +12,10 @@
 ### Physical
 
 - species: half-elf
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/157988975/b8Z7Ur)
 - class: Sorcerer (Draconic Sorcery)
 
 ## History

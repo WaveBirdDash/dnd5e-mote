@@ -12,6 +12,10 @@
 ### Physical
 
 - species: high elf
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/70031000/gJSMEc)
 - class: Wizard (Enchanter)
 
 ## Personality
