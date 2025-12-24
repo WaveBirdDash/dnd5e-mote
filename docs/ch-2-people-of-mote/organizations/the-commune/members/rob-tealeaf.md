@@ -48,4 +48,4 @@ Rob and the rest of the Gilded Purse attempted to jump [The Commune](../) as the
 
 ## Personality
 
-Rob's allegiances can shift with the wind if it suits his own drive for self-preservation. His only true ties are to the Tealeaf family, despite their current estrangement.
+Rob's allegiances can shift with the wind if it suits his own drive for self-preservation. His only true ties are to the Tealeaf family, despite his current estrangement.
