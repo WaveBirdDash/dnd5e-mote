@@ -12,10 +12,12 @@
 ### Mental
 
 - pronouns: he/him/she/her (genderfluid)
+- languages: Celestial, Common, Draconic, Primordial
 
 ### Physical
 
-- species: wolf-person
+- species: tabaxi
+- class: Cleric (Twilight Domain)
 - age: 12
 - height: 5'6"
 - weight: 39 lb.
@@ -26,7 +28,7 @@
 
 ### Childhood
 
-Ellie was abandoned by her wolf family in the forest, but was taken in by a family of Tabaxi. His wolf kin occasionally would return to visit, but he ultimately embraced his new Tabaxi family and their way of life. The relationship was further strained when she discovered that the wolves planned an attack against the Tabaxi she now called family, but the catfolk were able to push them out of the wood and banish them.
+Ellie was abandoned by her wolf family in the forest, but was taken in by a tabaxi family. His wolf kin occasionally would return to visit, but he ultimately embraced his new Tabaxi family and their way of life. The relationship was further strained when she discovered that the wolves planned an attack against the Tabaxi she now called family, but the catfolk were able to push them out of the wood and banish them.
 
 ## Abilities
 

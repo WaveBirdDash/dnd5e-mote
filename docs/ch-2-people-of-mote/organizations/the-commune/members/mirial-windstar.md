@@ -12,7 +12,12 @@
 ### Physical
 
 - species: high elf
+- class: Druid (Circle of the Land)
 
 ## History
 
 Mírial traveled to [Edgewood](../../../societies/esterfell-accord/edgewood/) and joined forces with [The Commune](../) to track down a missing acolyte named [Adelia](../../order-of-istus/members/adelia.md). The group discovered that Adelia was kidnapped by goblins, aided by former acolyte [Gren](../../order-of-istus/members/gren.md) as part of a larger plot to steal her [blessing of foresight](../../../../ch-5-character-options/supernatural-gifts.md) granted to her by [Istus](../../../../ch-3-stories-of-mote/pantheons/istus.md). During their rescue mission, the gift of foresight was transferred from Adelia to Mírial, and through this divine connection Istus continues to guide her with vague visions of events to come.
+
+## Personality
+
+Mírial is uninterested in debate, often making snap decisions when a group cannot agree on a course of action. This combined with her natural introversion means she will sometimes make a call without consulting with others.
