@@ -17,6 +17,11 @@
 - skin: pale
 - eyes: black (missing right eye)
 
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/64107614/T3AIr5)
+- class: Rogue
+
 ## Relationships
 
 - [Rufus Tealeaf](../../tealeaf-estate/members/rufus-tealeaf.md): father
