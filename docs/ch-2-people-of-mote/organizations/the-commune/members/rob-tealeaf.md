@@ -19,7 +19,7 @@
 
 ### Game Statistics
 
-- [character sheet](https://www.dndbeyond.com/characters/64107614/T3AIr5)
+- [character sheet](https://www.dndbeyond.com/characters/158250272/Cm2YER)
 - class: Rogue
 
 ## Relationships
