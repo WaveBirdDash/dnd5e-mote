@@ -7,7 +7,7 @@
 ### Mental
 
 - pronouns: he/him
-- languages: Halfling, Common
+- languages: Common, Halfling, Thieves' Cant
 
 ### Physical
 
