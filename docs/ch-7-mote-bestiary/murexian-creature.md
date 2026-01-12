@@ -47,7 +47,7 @@ The following creatures are all based on existing creatures and modified with mu
 ### Murexian Squirrel
 
 <figure>
-  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-squirrel-tigerlilynoh.png" alt="Drawing of murexian squirrel, depicting a squirrel with fangs, claws, and purple coloration in their eyes and on their neon-striped fur, sitting atop a human skull." />
+  <img src="https://github.com/wavebirddash/dnd5e-030crc/raw/main/artwork/murexian-squirrel-tigerlilynoh.png" alt="Drawing of murexian squirrel, depicting a squirrel with fangs, claws, and purple coloration in their eyes and on their neon-striped fur, sitting atop a human skull." />
   <figcaption>Murexian Squirrel by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ _**Gore.** Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Piercing dama
 ### Murexian Hellwasp
 
 <figure>
-  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-hellwasp-tigerlilynoh.png" alt="Drawing of murexian hellwasp, depicting a wasp with purple coloration on their body and wings." />
+  <img src="https://github.com/wavebirddash/dnd5e-030crc/raw/main/artwork/murexian-hellwasp-tigerlilynoh.png" alt="Drawing of murexian hellwasp, depicting a wasp with purple coloration on their body and wings." />
   <figcaption>Murexian Hellwasp by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ However this came to be, the beholder will find that not only is their body infu
 Murexian beholders will happily make their new surroundings into a lair, tending to create vast tunnels underground amidst the mexite deposits from ancient volcanic activity. Their slaves dig until they hit magma flows, so that the beholder might better protect their interests through ever more hazardous pathways.
 
 <figure>
-  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-beholder-mario-panighetti.png" alt="Drawing of murexian beholder, depicting a beholder with purple stripes across their indigo body, with their eyes all shaded purple, and viscous purple liquid oozing from their mouth and numerous eyeballs, framed by a backdrop of purple and black trees." />
+  <img src="https://github.com/wavebirddash/dnd5e-030crc/raw/main/artwork/murexian-beholder-mario-panighetti.png" alt="Drawing of murexian beholder, depicting a beholder with purple stripes across their indigo body, with their eyes all shaded purple, and viscous purple liquid oozing from their mouth and numerous eyeballs, framed by a backdrop of purple and black trees." />
   <figcaption>Murexian Beholder by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
 
@@ -335,4 +335,4 @@ _**Chomp.**_ The beholder makes two Bite attacks.
 
 _**Eye Ray.**_ The beholder uses Eye Rays.
 
-[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/wavebirddash/dnd5e-030crc).

@@ -19,7 +19,7 @@ These movements of other beings across the planes are unlikely to be Phygius' do
 Farmers and hunters in the region might revere the Stag as a minor deity, but thus far the archfey seems completely indifferent to the affairs of most mortals of Esterfell, unless they dare to tug at the edges of reality and order and move between worlds. This will draw its attention, but it is thus far unclear whether being noticed by Phygius would have a positive outcome.
 
 <figure>
-  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/phygius-haru.png" alt="Drawing of Phygius, depicting a stag with three antlers draped in vines and flowers, its forehead emblazoned with an arcane mark, surrounded by ethereal sparkling lights." />
+  <img src="https://github.com/wavebirddash/dnd5e-030crc/raw/main/artwork/phygius-haru.png" alt="Drawing of Phygius, depicting a stag with three antlers draped in vines and flowers, its forehead emblazoned with an arcane mark, surrounded by ethereal sparkling lights." />
   <figcaption>Phygius by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
 </figure>
 
@@ -118,4 +118,4 @@ _**Planar Passage.**_ Phygius uses Spellcasting to cast _Plane Shift_, and it ca
 
 _**Spatial Shunt.**_ Phygius targets all creatures within 30 feet, subjecting them to the following effect. _Dexterity Saving Throw:_ DC 23. _Failure:_ The creature teleports to an unoccupied space of Phygius' choice within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze. Phygius can't take this action again until the start of its next turn.
 
-[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/wavebirddash/dnd5e-030crc).
