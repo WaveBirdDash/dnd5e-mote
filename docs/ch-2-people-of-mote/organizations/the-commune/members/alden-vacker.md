@@ -12,6 +12,7 @@
 ### Mental
 
 - pronouns: he/him
+- languages: Common, Dwarvish, Elvish, Halfling
 
 ### Physical
 
@@ -21,6 +22,11 @@
 - weight: 39 lb.
 - eyes: blue
 - hair: black
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/40403439/Taw1Ib)
+- class: Ranger (Hunter)
 
 ## History
 
@@ -39,3 +45,7 @@ As a teenager, Alden came upon [Rowan Dundragon](rowan-dundragon.md), and in ass
 The adventuring duo eventually crossed paths with [The Commune](../), and the groups banded together to investigate strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md).
 
 While trying to find a way out of the [Feywild](../../../../ch-1-welcome-to-mote/cosmology/feywild.md) counterpart of Middlestag, Alden made a deal with [Plosh](../../unseelie-court/plosh.md) the [snot hag](../../../../ch-7-mote-bestiary/snot-hag.md) and was granted the gift of Devil's Sight.
+
+## Personality
+
+Alden opts to attack foes or prey from unseen positions, often acting as a sniper during a skirmish.

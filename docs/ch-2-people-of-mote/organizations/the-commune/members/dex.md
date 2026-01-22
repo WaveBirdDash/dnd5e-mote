@@ -12,10 +12,16 @@
 ### Mental
 
 - pronouns: he/him
+- languages: Common, Draconic, Elvish
 
 ### Physical
 
 - species: wood elf
+
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/40902638/64Qvlo)
+- class: Monk (Warrior of Shadow)
 
 ## Relationships
 
@@ -50,3 +56,7 @@ After being kicked out of the monastery, Dex wandered the [Verdancy](../../../so
 Then, a kobold attack on his old village left his mother extremely weak, and eventually dead. In an effort to avenge her, he tracked the kobolds back to their den, recently exposed by a quarry in the [Open Fields](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/open-fields.md). While exploring the den, a cavern collapse left Dex trapped inside. He was soon discovered by [The Commune](../). After they helped him escape the den, Dex decided to join the adventuring group as they investigated strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md).
 
 Because of his expulsion from the Shorsta-Halasma, Dex has not yet completed the construction of his [staff of Shorsta](../../../../ch-6-mote-treasures/magic-items/staff-of-shorsta.md).
+
+## Personality
+
+Dex sometimes makes rash decisions and is quick to action.

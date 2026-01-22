@@ -1,12 +1,12 @@
 # The Commune Members
 
 - [Alden Vacker](alden-vacker.md)
-- Alyseris
+- [Alyseris](alyseris.md)
 - [Dex](dex.md)
 - [Ellie Zap](ellie-zap.md)
-- Jedha
+- [Jedha](jedha.md)
 - [Kalista](kalista.md)
 - [Mírial Windstar](mirial-windstar.md)
-- Riordan
+- [Riordan](riordan.md)
 - [Rob Tealeaf](rob-tealeaf.md)
-- Rowan Dundragon
+- [Rowan Dundragon](rowan-dundragon.md)

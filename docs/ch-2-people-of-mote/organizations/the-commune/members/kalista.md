@@ -19,6 +19,11 @@
 - hair: black
 - eyes: gold
 
+### Game Statistics
+
+- [character sheet](https://www.dndbeyond.com/characters/28354996/pdeHi0)
+- class: Bard (College of Whispers)
+
 ## History
 
 ### Childhood
@@ -32,3 +37,7 @@ Kalista and many others from her clan were drawn to a career in the criminal und
 Kalista currently acts as a field operative for Reynard's Den. She utilizes a raven named Poe to send and receive messages with other Den members. [Olivash](../../reynards-den/members/olivash.md), another agent operating out of Ëaruilë, typically acts as a central contact for such message relays.
 
 Recently, Kalista joined forces with The Commune, originally drawn together under a common cause of rescuing [Adelia](../../order-of-istus/members/adelia.md) from a group of goblins, and later investigating strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md).
+
+## Personality
+
+Kalista has become slow to trust others, often preferring the company of fellow tieflings.
