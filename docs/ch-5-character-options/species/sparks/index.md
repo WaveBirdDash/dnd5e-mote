@@ -39,5 +39,5 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 | **Courtier** | Persuasion | _Friends_ | You learn one language of your choice. As a Magic action, you can spend one of your Hit Point Dice to replace this language with another one of your choice. |
 | **Infiltrator** | Stealth | _Minor Illusion_ | Once on each of your turns when you take the Hide action, you can spend and roll one of your Hit Point Dice to add the number rolled to the check. |
 | **Scribe** | History | _Dancing Lights_ | Once on each of your turns when you take the Study action, you can spend and roll one of your Hit Point Dice to add the number rolled to the check. |
-| **Soldier** | Athletics | _True Strike_ | You gain a +1 bonus to your Armor Class. |
+| **Soldier** | Athletics | _True Strike_ | As a Reaction to being hit by a melee attack, you can spend one of your Hit Point Dice to add your Proficiency Bonus to your Armor Class until the start of your next turn, potentially turning the hit into a miss. |
 | **Tinker** | An Artisan's Tool of your choice | _Mending_ | Once on each of your turns when you take the Utilize action, you can spend and roll one of your Hit Point Dice to add the number rolled to the check. |
