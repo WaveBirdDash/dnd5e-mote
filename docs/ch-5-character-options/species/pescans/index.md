@@ -20,7 +20,7 @@ Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people
 
 - _**Creature Type:**_ Elemental
 - _**Size:**_ Small (2-4 feet tall) or Medium (4-8 feet tall), chosen when you select this species
-- _**Speed:**_ 20 feet (Small) or 25 feet (Medium), Swim 40 feet
+- _**Speed:**_ 30 feet, Swim 40 feet
 - _**Resistances:**_ Cold (**Depth Strider**); Charmed, Frightened (**Abyssal Resilience**)
 - _**Senses:**_ Darkvision 60 feet
 
@@ -30,6 +30,8 @@ _**Abyssal Resilience.**_ Your people have stared into the infinite depths of th
 
 _**Depth Strider.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
 
-_**Limited Amphibiousness.**_ You can breathe air and water. You must be submerged in water at least once every day, or you gain 1 Exhaustion level at the end of that day.
+_**Amphibious.**_ You can breathe air and water.
+
+_**Water Dependency.**_ If, at the end of a Long Rest, you did not immerse yourself in water for at least 1 hour in the last 24 hours, you do not gain the benefits of that Long Rest.
 
 _**Water Magic.**_ You know the _Elementalism_ cantrip. When you reach character level 3, you learn the _Create or Destroy Water_ spell, and when you reach character level 5, you learn the _Sleet Storm_ spell. You always have these leveled spells prepared, you can cast them each once without a spell slot, and you regain the ability to cast them in this way when you finish a Long Rest.  You can also use any spell slots you have to cast these spells. Constitution is your spellcasting ability for the spells you cast with this trait.
