@@ -28,9 +28,9 @@ As a pescan, you have the following special traits.
 
 _**Abyssal Resilience.**_ Your people have stared into the infinite depths of the Elemental Plane of Water, making their mental reserves similarly deep. You have Resistance to the Charmed and Frightened conditions.
 
-_**Depth Strider.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
-
 _**Amphibious.**_ You can breathe air and water.
+
+_**Depth Strider.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
 
 _**Water Dependency.**_ If, at the end of a Long Rest, you did not immerse yourself in water for at least 1 hour in the last 24 hours, you do not gain the benefits of that Long Rest.
 
