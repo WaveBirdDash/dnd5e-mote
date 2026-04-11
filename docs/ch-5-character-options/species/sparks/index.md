@@ -32,6 +32,8 @@ _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an
 
 _**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the specializations from the **Specialized Design** table to gain the listed traits, including proficiency in either a skill or a tool, and one cantrip. Constitution is your spellcasting ability for cantrips you learn with this trait, and you can cast them without material components. You can spend your Hit Point Dice using the listed additional trait option a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
+Whenever you gain a class level, you can replace your selected specialization with another one.
+
 ##### Specialized Design
 | Specialization | Proficiency | Cantrip | Additional Trait |
 |:--------------:|:-------------:|:-------:|:-----------------|
