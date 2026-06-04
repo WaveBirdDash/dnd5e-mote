@@ -1,5 +1,3 @@
-fileMasks:
-  - "*.md"
 validators:
   http:
     enabled: false
