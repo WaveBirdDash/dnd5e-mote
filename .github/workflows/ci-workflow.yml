@@ -13,4 +13,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Run Link Validator
-        uses: your-ko/link-validator@latest
+        uses: your-ko/link-validator@2.4.0
