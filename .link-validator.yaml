@@ -1,0 +1,7 @@
+fileMasks:
+  - "*.md"
+validators:
+  http:
+    enabled: false
+  localPath:
+    enabled: true

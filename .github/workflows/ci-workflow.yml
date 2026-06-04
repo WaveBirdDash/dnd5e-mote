@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  link-validator:
+    name: Link Validator
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run Link Validator
+        uses: your-ko/link-validator@latest
