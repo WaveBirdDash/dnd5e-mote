@@ -1,3 +1,4 @@
+lookupPath: "./docs/"
 validators:
   http:
     enabled: false
