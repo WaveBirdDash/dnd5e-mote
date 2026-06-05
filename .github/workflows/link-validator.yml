@@ -25,7 +25,5 @@ jobs:
         with:
           files: ${{ steps.get-files.outputs.files}}
           validators:
-            http:
-              enabled: false
             localPath:
               enabled: true
