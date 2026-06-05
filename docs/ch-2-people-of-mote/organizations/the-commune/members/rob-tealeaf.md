@@ -26,12 +26,12 @@
 
 - [Rufus Tealeaf](../../tealeaf-estate/members/rufus-tealeaf.md): father
 - [Lilly Tealeaf](../../tealeaf-estate/members/lilly-tealeaf.md): mother (deceased)
-- [Oswald Tealeaf](../../(/members/oswald-tealeaf.md): uncle
-- [Jillian Tealeaf-Bibblin](../../(/members/jillian-tealeaf-bibblin.md): aunt
-- [Anderson Tealeaf](../../(/members/anderson-tealeaf.md): brother
-- [Milo Tealeaf](../../(/members/milo-tealeaf.md): brother
-- [Myrtle Tealeaf](../../(/members/myrtle-tealeaf.md): sister
-- [Barnard Tealeaf-Bibblin](../../(/members/barnard-tealeaf-bibblin.md): cousin
+- [Oswald Tealeaf](../../tealeaf-estate/members/oswald-tealeaf.md): uncle
+- [Jillian Tealeaf-Bibblin](../../tealeaf-estate/members/jillian-tealeaf-bibblin.md): aunt
+- [Anderson Tealeaf](../../tealeaf-estate/members/anderson-tealeaf.md): brother
+- [Milo Tealeaf](../../tealeaf-estate/members/milo-tealeaf.md): brother
+- [Myrtle Tealeaf](../../tealeaf-estate/members/myrtle-tealeaf.md): sister
+- [Barnard Tealeaf-Bibblin](../../tealeaf-estate/members/barnard-tealeaf-bibblin.md): cousin
 
 ## History
 

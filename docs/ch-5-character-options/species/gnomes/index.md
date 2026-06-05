@@ -38,7 +38,7 @@ _**Waterdowsers.**_ You are innately suited to exploring hazardous climates, gra
 
 #### Distribution
 
-The temperate forests of Lenya, particularly the [Eastern Forests](../../../ch-4-esterfell-gazetteer/esterfell/lenya/eastern-forests.md), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../../../ch-2-people-of-mote/societies/verdancy/balsam.md) and [Eldwin](../../ch-2-people-of-mote/societies/verdancy/eldwin.md).
+The temperate forests of Lenya, particularly the [Eastern Forests](../../../ch-4-esterfell-gazetteer/esterfell/lenya/eastern-forests.md), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../../../ch-2-people-of-mote/societies/verdancy/balsam.md) and [Eldwin](../../../ch-2-people-of-mote/societies/verdancy/eldwin.md).
 
 ### Rock gnome
 
