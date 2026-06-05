@@ -6,15 +6,11 @@ on:
       - main
 
 jobs:
-  markdown-link-check:
-    name: Markdown Link Check
+  link-validator:
+    name: Link Validator
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: markdown-link-check-action
-        uses: tcort/github-action-markdown-link-check@v1.1.2
-        with:
-          base-branch: main
-          folder-path: "docs"
-          use-quiet-mode: yes
+      - name: Run Link Validator
+        uses: your-ko/link-validator@2.4.0
