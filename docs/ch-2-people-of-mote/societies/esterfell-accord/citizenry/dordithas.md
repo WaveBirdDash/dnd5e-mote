@@ -1,6 +1,6 @@
 # Dordithas
 
-**Dordithas** is an alchemist residing in [Leving](../leving/).
+**Dordithas** is an alchemist residing in [Leving](../leving/index.md).
 
 ## Information
 

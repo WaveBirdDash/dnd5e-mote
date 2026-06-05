@@ -1,6 +1,6 @@
 # Zared Driftbirch
 
-**Zared Driftbirch** is a _scout_ employed by the [Gilded Purse](../).
+**Zared Driftbirch** is a _scout_ employed by the [Gilded Purse](../index.md).
 
 ## Information
 

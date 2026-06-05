@@ -2,6 +2,6 @@
 
 ## Contents
 
-- [Pantheons](pantheons/)
-- [Songs of Esterfell](songs-of-esterfell/)
+- [Pantheons](pantheons/index.md)
+- [Songs of Esterfell](songs-of-esterfell/index.md)
 - [Waypoints](waypoints.md)

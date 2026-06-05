@@ -1,6 +1,6 @@
 # Murex
 
-**Murex** is a material extracted from plants, animals, and minerals native to the [Murexian Grove](../../ch-4-esterfell-gazetteer/esterfell/lenya/murexian-grove.md). It is used to create a [dye of a vibrant purple hue](murexian-dye.md) and is considered one of the more prized substances in [Esterfell](../../ch-4-esterfell-gazetteer/esterfell/).
+**Murex** is a material extracted from plants, animals, and minerals native to the [Murexian Grove](../../ch-4-esterfell-gazetteer/esterfell/lenya/murexian-grove.md). It is used to create a [dye of a vibrant purple hue](murexian-dye.md) and is considered one of the more prized substances in [Esterfell](../../ch-4-esterfell-gazetteer/esterfell/index.md).
 
 ## Properties
 
@@ -26,7 +26,7 @@ A vial of pure murex can be processed with alchemist's supplies into 5 vials of 
 
 ### Trade and market
 
-Murexian-dyed materials are available on the open market but generally are only sold by merchants in northern [Lenya](../../ch-4-esterfell-gazetteer/esterfell/lenya/) due to proximity to the continent's only known source of murex. [Cape Bec](../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/) tightly controls access to murexian dyes, and pure murex is kept out of the supply chain entirely due to its inability to be stored.
+Murexian-dyed materials are available on the open market but generally are only sold by merchants in northern [Lenya](../../ch-4-esterfell-gazetteer/esterfell/lenya/index.md) due to proximity to the continent's only known source of murex. [Cape Bec](../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/index.md) tightly controls access to murexian dyes, and pure murex is kept out of the supply chain entirely due to its inability to be stored.
 
 ### Value
 

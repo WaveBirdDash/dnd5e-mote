@@ -1,6 +1,6 @@
 # Rowan Dundragon
 
-**Rowan Dundragon** is a human warrior currently working with [The Commune](../).
+**Rowan Dundragon** is a human warrior currently working with [The Commune](../index.md).
 
 ## Information
 

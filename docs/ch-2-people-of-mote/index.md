@@ -2,5 +2,5 @@
 
 ## Contents
 
-- [Societies](societies/)
-- [Organizations](organizations/)
+- [Societies](societies/index.md)
+- [Organizations](organizations/index.md)

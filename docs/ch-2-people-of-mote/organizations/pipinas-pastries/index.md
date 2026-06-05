@@ -1,5 +1,5 @@
 # Pipina's Pastries
 
-**Pipina's Pastries** is a bakery in [Bridgeport](../../societies/esterfell-accord/bridgeport/).
+**Pipina's Pastries** is a bakery in [Bridgeport](../../societies/esterfell-accord/bridgeport/index.md).
 
-- [Members](members/)
+- [Members](members/index.md)

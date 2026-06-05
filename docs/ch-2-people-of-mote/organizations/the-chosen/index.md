@@ -2,11 +2,11 @@
 
 **The Chosen** are a religious cult which worship the deva [Ramil](../../../ch-3-stories-of-mote/pantheons/ramil.md) as a deity. They are the only religious group officially observed by [Ramila](../../societies/ramila.md).
 
-- [Members](members/)
+- [Members](members/index.md)
 
 ## History
 
-A splinter group of humans left [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/) shortly after arriving in [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/) and came to [Barria](../../../ch-4-esterfell-gazetteer/esterfell/barria.md) to escape rule by the [Esterfell Accord](../../societies/esterfell-accord/). Calling their religious order The Chosen, these humans built a new society founded under strict religious rule, uniting their citizens in worship of a single deity: a deva named Ramil.
+A splinter group of humans left [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/index.md) shortly after arriving in [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/index.md) and came to [Barria](../../../ch-4-esterfell-gazetteer/esterfell/barria.md) to escape rule by the [Esterfell Accord](../../societies/esterfell-accord/index.md). Calling their religious order The Chosen, these humans built a new society founded under strict religious rule, uniting their citizens in worship of a single deity: a deva named Ramil.
 
 ## Beliefs
 

@@ -2,5 +2,5 @@
 
 ## Contents
 
-- [Cosmology](cosmology/)
+- [Cosmology](cosmology/index.md)
 - [Timekeeping](timekeeping.md)

@@ -1,6 +1,6 @@
 # Hibana Grove
 
-**Hibana Grove** is a small forest on [Westin Island](index.md). Its closest settlement is [Ashín](../../../../../ch-2-people-of-mote/societies/esterfell-accord/ashin/).
+**Hibana Grove** is a small forest on [Westin Island](index.md). Its closest settlement is [Ashín](../../../../../ch-2-people-of-mote/societies/esterfell-accord/ashin/index.md).
 
 ## History
 
@@ -10,4 +10,4 @@ Since Ashín was settled in 142 AP, the local population has attempted to preven
 
 ### Etymology
 
-The forest's name "hibana" (火花) comes from a pre-[Esterfell](../../) human language and means "spark".
+The forest's name "hibana" (火花) comes from a pre-[Esterfell](../../index.md) human language and means "spark".

@@ -1,6 +1,6 @@
 # Rufus Olaran
 
-**Rufus Olaran** is a former priest of [Oghma](../../../../ch-3-stories-of-mote/pantheons/index.md#borrowed-pantheon) who has since joined [The Chosen](../) as a follower of [Ramil](../../../../ch-3-stories-of-mote/pantheons/ramil.md).
+**Rufus Olaran** is a former priest of [Oghma](../../../../ch-3-stories-of-mote/pantheons/index.md#borrowed-pantheon) who has since joined [The Chosen](../index.md) as a follower of [Ramil](../../../../ch-3-stories-of-mote/pantheons/ramil.md).
 
 ## Information
 

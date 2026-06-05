@@ -2,6 +2,6 @@
 
 ## Contents
 
-- [Species](species/)
+- [Species](species/index.md)
 - [Mote Spells](mote-spells.md)
 - [Supernatural Gifts](supernatural-gifts.md)

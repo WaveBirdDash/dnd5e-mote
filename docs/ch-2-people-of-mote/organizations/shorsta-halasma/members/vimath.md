@@ -1,6 +1,6 @@
 # Vimath
 
-**Vimath** is a [Shorsta-Halasma](../) monk who teaches the art of weapon combat.
+**Vimath** is a [Shorsta-Halasma](../index.md) monk who teaches the art of weapon combat.
 
 ## Information
 

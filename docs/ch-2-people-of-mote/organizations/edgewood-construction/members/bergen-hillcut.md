@@ -1,6 +1,6 @@
 # Bergen Hillcut
 
-**Bergen Hillcut** is a carpenter in [Edgewood](../../../societies/esterfell-accord/edgewood/). He works in [Edgewood Construction](../) under [Ref Meadowtide](ref-meadowtide.md).
+**Bergen Hillcut** is a carpenter in [Edgewood](../../../societies/esterfell-accord/edgewood/index.md). He works in [Edgewood Construction](../index.md) under [Ref Meadowtide](ref-meadowtide.md).
 
 ## Information
 

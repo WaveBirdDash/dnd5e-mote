@@ -4,4 +4,4 @@
 
 - [Fellspace](fellspace.md)
 - [Mote](mote.md)
-- [Moons](moons/)
+- [Moons](moons/index.md)

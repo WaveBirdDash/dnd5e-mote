@@ -1,6 +1,6 @@
 # Brakko
 
-**Brakko** are intelligent aquatic beings residing in the deepest [waters](../../../ch-4-esterfell-gazetteer/coasts/) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/).
+**Brakko** are intelligent aquatic beings residing in the deepest [waters](../../../ch-4-esterfell-gazetteer/esterfell/coasts/index.md) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/index.md).
 
 ## Appearance
 

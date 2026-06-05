@@ -1,6 +1,6 @@
 # Riordan
 
-**Riordan** is an elf currently working with [The Commune](../).
+**Riordan** is an elf currently working with [The Commune](../index.md).
 
 ## Information
 

@@ -1,6 +1,6 @@
 # Sem Rovan
 
-**Sem Rovan** is a receptionist for the [Overseers of the Eager](../)'s [Leving](../../../societies/esterfell-accord/leving/) office.
+**Sem Rovan** is a receptionist for the [Overseers of the Eager](../index.md)'s [Leving](../../../societies/esterfell-accord/leving/index.md) office.
 
 ## Information
 

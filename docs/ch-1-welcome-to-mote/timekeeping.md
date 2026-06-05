@@ -1,6 +1,6 @@
 # Timekeeping
 
-**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/). The measurement of days and months are generally based on physical aspects of [Mote](cosmology/mote.md), such as the movement of its [natural satellites](cosmology/moons/) across the sky, which can allow for easy conversion between systems.
+**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/index.md). The measurement of days and months are generally based on physical aspects of [Mote](cosmology/mote.md), such as the movement of its [natural satellites](cosmology/moons/index.md) across the sky, which can allow for easy conversion between systems.
 
 ## Units of Time
 
@@ -36,7 +36,7 @@ A month is the time period of a full orbit of a moon around Mote. This period va
 
 Note that these are minimal durations, as the length of a month will be extended when one or more lunar days occur within the orbital period.
 
-The most commonly used calendar systems in both the [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/) and [Subros](../ch-2-people-of-mote/societies/) use Kiva's orbit as the measure of a month, though both take different approaches to addressing the eccentricity of this period.
+The most commonly used calendar systems in both the [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/index.md) and [Subros](../ch-2-people-of-mote/societies/index.md) use Kiva's orbit as the measure of a month, though both take different approaches to addressing the eccentricity of this period.
 
 #### Week
 
@@ -61,13 +61,13 @@ A year is the time period of a full orbit of Mote around the Sun, marking a full
 
 ## Calendar Systems
 
-The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/) are the **Kivan Year**, the **Harvest Calendar**, and the **Tides of Fathoms**. All three calendars divide each year into months marked roughly by the movement of a moon of Mote.
+The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/index.md) are the **Kivan Year**, the **Harvest Calendar**, and the **Tides of Fathoms**. All three calendars divide each year into months marked roughly by the movement of a moon of Mote.
 
 ### Kivan Year
 
 - **Type:** solar
 - **Introduction:** 1 KS
-- **Usage:** Esterfell Accord, Subros, [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
+- **Usage:** Esterfell Accord, Subros, [Verdancy](../ch-2-people-of-mote/societies/verdancy/index.md)
 
 A Kivan year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan calendar's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week, the length of a month, or when an annual event aligns with the seasons.
 

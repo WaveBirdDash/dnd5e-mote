@@ -24,3 +24,6 @@ jobs:
         uses: your-ko/link-validator@2.4.0
         with:
           files: ${{ steps.get-files.outputs.files}}
+          fileMasks: "*.md"
+          logLevel: warn
+          lookupPath: ./docs

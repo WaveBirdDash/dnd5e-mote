@@ -1,6 +1,6 @@
 # Delmae
 
-**Delmae** is a bandit employed by the [Gilded Purse](../).
+**Delmae** is a bandit employed by the [Gilded Purse](../index.md).
 
 ## Information
 

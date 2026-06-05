@@ -1,6 +1,6 @@
 # Lenya
 
-**Lenya** is the largest island of [Esterfell](../). The [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/) controls the portion of Lenya north of the [Floral Divide](floral-divide.md), with the southern region claimed by [Subros](../../../ch-2-people-of-mote/societies/subros/) or marked as wild [Verdancy](../../../ch-2-people-of-mote/societies/verdancy/).
+**Lenya** is the largest island of [Esterfell](../index.md). The [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/index.md) controls the portion of Lenya north of the [Floral Divide](floral-divide.md), with the southern region claimed by [Subros](../../../ch-2-people-of-mote/societies/subros/index.md) or marked as wild [Verdancy](../../../ch-2-people-of-mote/societies/verdancy/index.md).
 
 ## Geography
 
@@ -22,13 +22,13 @@
 ### Mountains
 
 - [Ashen Scape](ashen-scape.md)
-- [Attalya Mountains](attalya-mountains/)
+- [Attalya Mountains](attalya-mountains/index.md)
 - [Floral Divide](floral-divide.md)
 - [Mount Hora](mount-hora.md)
 
 ### Waters
 
-- [Esterfell Sea](esterfell-sea/)
+- [Esterfell Sea](esterfell-sea/index.md)
 - [Norgrad Canal](norgrad-canal.md)
 - [Quench River](quench-river.md)
 - [Roiling River](attalya-mountains/taltol-peak/roiling-river.md)

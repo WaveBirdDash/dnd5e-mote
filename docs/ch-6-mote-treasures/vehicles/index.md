@@ -1,3 +1,3 @@
 # Vehicles
 
-- [Starstuff Ships](starstuff-ships/)
+- [Starstuff Ships](starstuff-ships/index.md)

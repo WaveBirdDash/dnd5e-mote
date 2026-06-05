@@ -15,4 +15,4 @@
 
 ## History
 
-Allen acts as a protector to the Eastern Forests which his family has lived in for several generations. To further this effort, he has begun traveling across [Lenya](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/) in the pursuit of arcane knowledge, and these travels eventually brought him to [Cape Bec](../../esterfell-accord/cape-bec/).
+Allen acts as a protector to the Eastern Forests which his family has lived in for several generations. To further this effort, he has begun traveling across [Lenya](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/index.md) in the pursuit of arcane knowledge, and these travels eventually brought him to [Cape Bec](../../esterfell-accord/cape-bec/index.md).

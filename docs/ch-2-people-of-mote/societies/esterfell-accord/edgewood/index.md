@@ -1,6 +1,6 @@
 # Edgewood
 
-**Edgewood** is a trading outpost along the [Road of Commerce](../road-of-commerce.md), marking that road's western entry point to [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md). The settlement does not have many permanent homes, acting primarily as a rest stop between [Needledale](../needledale.md) to the west and [Leving](../leving/) to the east, and providing a place for local hunters to trade their pelts and meats and purchase equipment.
+**Edgewood** is a trading outpost along the [Road of Commerce](../road-of-commerce.md), marking that road's western entry point to [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md). The settlement does not have many permanent homes, acting primarily as a rest stop between [Needledale](../needledale.md) to the west and [Leving](../leving/index.md) to the east, and providing a place for local hunters to trade their pelts and meats and purchase equipment.
 
 ## Information
 

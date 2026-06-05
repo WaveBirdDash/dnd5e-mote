@@ -1,6 +1,6 @@
 # Balut
 
-**Balut** is a powerful mage who founded [Balut's Academerie for the Magistically Inclinated](../).
+**Balut** is a powerful mage who founded [Balut's Academerie for the Magistically Inclinated](../index.md).
 
 ## Information
 
@@ -12,11 +12,11 @@
 
 ### Physical
 
-- species: [pescan](../../../../ch-5-character-options/species/pescans/)
+- species: [pescan](../../../../ch-5-character-options/species/pescans/index.md)
 
 ## History
 
-Balut immigrated to the [Esterfell Accord](../../../societies/esterfell-accord/) from [Xiahulia](../../../societies/xiahulia.md). As soon as he was exposed to the subtle intricacies of the Common language, he posited that it contained great reserves of untapped magical potential. He thereafter sought to acquire all the knowledge of vocabulomancy he could from surface-dwelling societies. Balut quickly excelled in his studies, and soon decided that this bounty of magic needed to be shared with the world. With this goal in mind, he founded a school carrying his own name and unique speech patterns.
+Balut immigrated to the [Esterfell Accord](../../../societies/esterfell-accord/index.md) from [Xiahulia](../../../societies/xiahulia.md). As soon as he was exposed to the subtle intricacies of the Common language, he posited that it contained great reserves of untapped magical potential. He thereafter sought to acquire all the knowledge of vocabulomancy he could from surface-dwelling societies. Balut quickly excelled in his studies, and soon decided that this bounty of magic needed to be shared with the world. With this goal in mind, he founded a school carrying his own name and unique speech patterns.
 
 ## Stat block
 

@@ -1,8 +1,8 @@
 # Reynard's Den
 
-**Reynard's Den** is a cartel operating out of several cities across the [Esterfell Accord](../../societies/esterfell-accord/). Its main business comes from smuggling stolen teas out of [Brier Glen](../../societies/esterfell-accord/brier-glen.md) to sell on the black market in [Leving](../../societies/esterfell-accord/leving/) and [Overseam](../../societies/esterfell-accord/overseam.md), but the organization has agents secretly furthering its financial and political efforts throughout the Accord.
+**Reynard's Den** is a cartel operating out of several cities across the [Esterfell Accord](../../societies/esterfell-accord/index.md). Its main business comes from smuggling stolen teas out of [Brier Glen](../../societies/esterfell-accord/brier-glen.md) to sell on the black market in [Leving](../../societies/esterfell-accord/leving/index.md) and [Overseam](../../societies/esterfell-accord/overseam.md), but the organization has agents secretly furthering its financial and political efforts throughout the Accord.
 
-- [Members](members/)
+- [Members](members/index.md)
 
 ## Communication
 

@@ -1,6 +1,6 @@
 # Zarin Summershield
 
-**Zarin Summershield** is the head of the [Overseers of the Eager](../).
+**Zarin Summershield** is the head of the [Overseers of the Eager](../index.md).
 
 ## Information
 

@@ -1,5 +1,5 @@
 # Gilded Purse
 
-The **Gilded Purse** is a gang headed by [Baldwin Marshbluff](members/baldwin-marshbluff.md) operating out of [Leving](../../societies/esterfell-accord/leving/) and [Brier Glen](../../societies/esterfell-accord/brier-glen.md). Baldwin runs the organization in secret as an independent organization from [Reynard's Den](../reynards-den/).
+The **Gilded Purse** is a gang headed by [Baldwin Marshbluff](members/baldwin-marshbluff.md) operating out of [Leving](../../societies/esterfell-accord/leving/index.md) and [Brier Glen](../../societies/esterfell-accord/brier-glen.md). Baldwin runs the organization in secret as an independent organization from [Reynard's Den](../reynards-den/index.md).
 
-- [Members](members/)
+- [Members](members/index.md)

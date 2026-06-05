@@ -36,13 +36,13 @@
 
 Alden grew up feral among the wild creatures of the Eastern Forests, not knowing or remembering his parents or other family. He tended to stay far away from civilized settlements, opting for the beasts and plants with which he was more familiar.
 
-As a teenager, Alden came upon [Rowan Dundragon](rowan-dundragon.md), and in assisting her with navigating the forest, he found a new calling to act as a guide for wayward travelers. For many years after that he continued to guide folk through the Eastern Forests, but over time this new exposure to the people of [Lenya](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/) inspired him to learn more of the lands outside his familiar woods, so he set out with Rowan to explore the rest of [Esterfell](../../../../ch-4-esterfell-gazetteer/esterfell/).
+As a teenager, Alden came upon [Rowan Dundragon](rowan-dundragon.md), and in assisting her with navigating the forest, he found a new calling to act as a guide for wayward travelers. For many years after that he continued to guide folk through the Eastern Forests, but over time this new exposure to the people of [Lenya](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/index.md) inspired him to learn more of the lands outside his familiar woods, so he set out with Rowan to explore the rest of [Esterfell](../../../../ch-4-esterfell-gazetteer/esterfell/index.md).
 
 ### Adulthood
 
 <img src="alden-devils-sight-burrrrrman.png" align="right" width="300" alt="Hero Forge 3D model of a male-presenting halfling, a closeup on a face mostly concealed with a dark hood but revealing two eyes; his left eye is purple and his right eye is green. Artwork by burrrrrman." />
 
-The adventuring duo eventually crossed paths with [The Commune](../), and the groups banded together to investigate strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md).
+The adventuring duo eventually crossed paths with [The Commune](../index.md), and the groups banded together to investigate strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md).
 
 While trying to find a way out of the [Feywild](../../../../ch-1-welcome-to-mote/cosmology/feywild.md) counterpart of Middlestag, Alden made a deal with [Plosh](../../unseelie-court/members/plosh.md) the [snot hag](../../../../ch-7-mote-bestiary/snot-hag.md) and was granted the gift of Devil's Sight.
 
