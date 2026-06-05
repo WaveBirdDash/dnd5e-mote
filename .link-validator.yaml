@@ -1,6 +1,0 @@
-lookupPath: "./docs/"
-validators:
-  http:
-    enabled: false
-  localPath:
-    enabled: true
