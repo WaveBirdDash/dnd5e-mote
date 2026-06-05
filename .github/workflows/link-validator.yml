@@ -28,8 +28,7 @@ jobs:
             - "*.md"
           logLevel: warn
           lookupPath: ./docs
-          validators:
-            localPath:
-              enabled: true
-            http:
-              enabled: false
+          validators.localPath:
+            enabled: true
+          validators.http:
+            enabled: false
