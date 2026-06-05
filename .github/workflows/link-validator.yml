@@ -18,7 +18,7 @@ jobs:
         id: get-files
         shell: bash
         run: |
-          FILES_LIST=$(find -s -name "*.md" docs/ | tr '\n' ',' | sed 's/,$//')
+          FILES_LIST=$(find -name "*.md" docs/ | tr '\n' ',' | sed 's/,$//')
           echo "files=$FILES_LIST" >> $GITHUB_OUTPUT
       - name: Run Link Validator
         uses: your-ko/link-validator@2.4.0
