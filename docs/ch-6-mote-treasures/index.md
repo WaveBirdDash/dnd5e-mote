@@ -3,7 +3,7 @@
 ## Contents
 
 - [Dreg](dreg-ore.md)
-- [Murex](murex/)
+- [Murex](murex/index.md)
 - [Starstuff](starstuff.md)
-- [Magic Items](magic-items/)
-- [Vehicles](vehicles/)
+- [Magic Items](magic-items/index.md)
+- [Vehicles](vehicles/index.md)

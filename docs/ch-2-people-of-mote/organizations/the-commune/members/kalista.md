@@ -1,6 +1,6 @@
 # Kalista
 
-**Kalista** is a wandering adventurer working with [The Commune](../), while also acting as a field operative for [Reynard's Den](../../reynards-den/).
+**Kalista** is a wandering adventurer working with [The Commune](../index.md), while also acting as a field operative for [Reynard's Den](../../reynards-den/index.md).
 
 ## Information
 
@@ -28,7 +28,7 @@
 
 ### Childhood
 
-Kalista grew up among a matriarchal clan of tieflings in the [Esterfell Accord](../../../societies/esterfell-accord/). Her mother was killed when she was very young and she had no memory of her father, leaving her to be raised by distant cousins.
+Kalista grew up among a matriarchal clan of tieflings in the [Esterfell Accord](../../../societies/esterfell-accord/index.md). Her mother was killed when she was very young and she had no memory of her father, leaving her to be raised by distant cousins.
 
 ### Adulthood
 

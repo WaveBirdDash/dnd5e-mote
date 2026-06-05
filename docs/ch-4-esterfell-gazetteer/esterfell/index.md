@@ -11,21 +11,21 @@
 
 Esterfell's main island formations are listed below from largest to smallest:
 
-- [Lenya](lenya/)
-- [Yggru](yggru/)
+- [Lenya](lenya/index.md)
+- [Yggru](yggru/index.md)
 - [Barria](barria.md)
 - [Malagwa](malagwa.md)
 - [Ashen Archipelago](ashen-archipelago.md)
 
 ## Waters
 
-- [Coasts](coasts/)
+- [Coasts](coasts/index.md)
 
 ## History
 
 ### Starstuff impact
 
-Several thousand years ago, the then-unnamed continent was subjected to a massive impact by an asteroid composed entirely of [starstuff](../../ch-6-mote-treasures/starstuff.md). The impact rocked the landscape, rapidly reshaping the continent as stellar energies surged through the mountains and forests, while triggering volcanic eruptions and motequakes that could be felt around the globe. These quakes ripped the continent apart into a smaller set of islands. Much flora and fauna was killed instantly at the impact site on Lenya, while survivors within thousands of miles were infused with starstuff fragments empowering their bodies with magical essence and jumpstarting strange evolutionary processes. The asteroid punched deep into Mote's crust, exposing ancient aquifers that rapidly filled the crater and created a new [inland sea](lenya/esterfell-sea/).
+Several thousand years ago, the then-unnamed continent was subjected to a massive impact by an asteroid composed entirely of [starstuff](../../ch-6-mote-treasures/starstuff.md). The impact rocked the landscape, rapidly reshaping the continent as stellar energies surged through the mountains and forests, while triggering volcanic eruptions and motequakes that could be felt around the globe. These quakes ripped the continent apart into a smaller set of islands. Much flora and fauna was killed instantly at the impact site on Lenya, while survivors within thousands of miles were infused with starstuff fragments empowering their bodies with magical essence and jumpstarting strange evolutionary processes. The asteroid punched deep into Mote's crust, exposing ancient aquifers that rapidly filled the crater and created a new [inland sea](lenya/esterfell-sea/index.md).
 
 ### Settlement
 

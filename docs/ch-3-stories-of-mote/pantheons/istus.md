@@ -2,9 +2,9 @@
 
 > "I have one last blessing for you, my emissaries. Your fate is guiding you, not today, not tomorrow, but to a moment that will challenge you in a new and horrible way, and I cannot make the difficult decision that lies at the end of your quest for you, but I can grant you the time you need to make that decision. You're going to be _amazing_."
 >
-> — Istus, [The Adventure Zone: Balance - The Eleventh Hour: Chapter Seven](https://maximumfun.org/episodes/adventure-zone/ep-47-eleventh-hour-chapter-seven/)
+> — Istus, [The Adventure Zone: Balance - The Eleventh Hour: Chapter Seven](https://maximumfun.org/episodes/adventure-zone/ep-47-eleventh-hour-chapter-seven/index.md)
 
-**Istus** is a deity of divination and fate originating from the world of Oerth. Though she is generally seen as a less-trafficked deity on [Mote](../../ch-1-welcome-to-mote/cosmology/mote.md), she has some followers within the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/) known collectively as the [Order of Istus](../../ch-2-people-of-mote/organizations/order-of-istus/).
+**Istus** is a deity of divination and fate originating from the world of Oerth. Though she is generally seen as a less-trafficked deity on [Mote](../../ch-1-welcome-to-mote/cosmology/mote.md), she has some followers within the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/index.md) known collectively as the [Order of Istus](../../ch-2-people-of-mote/organizations/order-of-istus/index.md).
 
 #### Information
 

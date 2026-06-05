@@ -1,6 +1,6 @@
 # Morton Dav
 
-**Morton Dav** is a farmer from [Ashín](../ashin/).
+**Morton Dav** is a farmer from [Ashín](../ashin/index.md).
 
 ## Information
 

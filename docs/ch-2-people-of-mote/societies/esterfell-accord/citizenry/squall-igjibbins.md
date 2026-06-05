@@ -1,6 +1,6 @@
 # Squall Igjibbins
 
-**Squall Igjibbins** is a seamstress in [Leving](../leving/).
+**Squall Igjibbins** is a seamstress in [Leving](../leving/index.md).
 
 ## Information
 

@@ -1,6 +1,6 @@
 # Rhogar
 
-**Rhogar** is a [Shorsta-Halasma](../) monk who teaches the art of disrupting the flow of ki in an opponent.
+**Rhogar** is a [Shorsta-Halasma](../index.md) monk who teaches the art of disrupting the flow of ki in an opponent.
 
 ## Information
 

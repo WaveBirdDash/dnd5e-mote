@@ -1,6 +1,6 @@
 # Alyseris
 
-**Alyseris** is an elf mage currently working with [The Commune](../).
+**Alyseris** is an elf mage currently working with [The Commune](../index.md).
 
 ## Information
 

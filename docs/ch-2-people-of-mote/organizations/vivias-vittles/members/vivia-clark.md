@@ -1,6 +1,6 @@
 # Vivia Clark
 
-**Vivia Clark** is the proprietor of [Vivia's Vittles](../) in [Ashín](../../../societies/esterfell-accord/ashin/).
+**Vivia Clark** is the proprietor of [Vivia's Vittles](../index.md) in [Ashín](../../../societies/esterfell-accord/ashin/index.md).
 
 ## Information
 

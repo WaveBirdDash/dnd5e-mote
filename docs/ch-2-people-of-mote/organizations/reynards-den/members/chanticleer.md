@@ -1,6 +1,6 @@
 # Chanticleer
 
-**Chanticleer** runs the [Bridgeport](../../../societies/esterfell-accord/) chapter of [Reynard's Den](../).
+**Chanticleer** runs the [Bridgeport](../../../societies/esterfell-accord/index.md) chapter of [Reynard's Den](../index.md).
 
 ## Information
 

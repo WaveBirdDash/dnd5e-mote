@@ -15,4 +15,4 @@
 
 ## History
 
-Kratos took the Oath of Redemption to protect the innocent from harm after his family was killed in a border skirmish between the [Accord](../../esterfell-accord/) and [Subros](../../subros/).
+Kratos took the Oath of Redemption to protect the innocent from harm after his family was killed in a border skirmish between the [Accord](../../esterfell-accord/index.md) and [Subros](../../subros/index.md).

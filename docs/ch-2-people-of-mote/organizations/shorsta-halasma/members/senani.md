@@ -1,6 +1,6 @@
 # Senani
 
-**Senani** is a [Shorsta-Halasma](../) monk who teaches the art of transferring life energy through ki.
+**Senani** is a [Shorsta-Halasma](../index.md) monk who teaches the art of transferring life energy through ki.
 
 ## Information
 

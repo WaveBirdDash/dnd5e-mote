@@ -1,6 +1,6 @@
 # Ref Meadowtide
 
-**Ref Meadowtide** is the foreperson overseeing [construction](../) jobs in [Edgewood](../../../societies/esterfell-accord/edgewood/).
+**Ref Meadowtide** is the foreperson overseeing [construction](../index.md) jobs in [Edgewood](../../../societies/esterfell-accord/edgewood/index.md).
 
 ## Information
 

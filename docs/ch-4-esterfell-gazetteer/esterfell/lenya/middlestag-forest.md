@@ -1,10 +1,10 @@
 # Middlestag Forest
 
-**Middlestag Forest** is a wooded region along the southern coast of the [Esterfell Sea](esterfell-sea/). Several settlements of varying sizes surround the wood, but the forest itself has been left undeveloped by the [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/).
+**Middlestag Forest** is a wooded region along the southern coast of the [Esterfell Sea](esterfell-sea/index.md). Several settlements of varying sizes surround the wood, but the forest itself has been left undeveloped by the [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/index.md).
 
 ## Geography
 
-The forest spans from the base of [Taltol Peak](attalya-mountains/taltol-peak/) to the [Open Fields](open-fields.md).
+The forest spans from the base of [Taltol Peak](attalya-mountains/taltol-peak/index.md) to the [Open Fields](open-fields.md).
 
 ## Etymology
 

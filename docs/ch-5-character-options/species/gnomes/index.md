@@ -2,7 +2,7 @@
 
 ## Description
 
-**Gnomes** are diminutive humanoids who came to [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/) in the first few waves of immigrations. They spread across all corners of the continent, with larger populations in [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/) and the [Ashen Archipelago](../../../ch-4-esterfell-gazetteer/esterfell/ashen-archipelago.md) and a few families settling in [Barria](../../../ch-4-esterfell-gazetteer/esterfell/barria.md) and [Yggru](../../../ch-4-esterfell-gazetteer/esterfell/yggru/).
+**Gnomes** are diminutive humanoids who came to [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/index.md) in the first few waves of immigrations. They spread across all corners of the continent, with larger populations in [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/index.md) and the [Ashen Archipelago](../../../ch-4-esterfell-gazetteer/esterfell/ashen-archipelago.md) and a few families settling in [Barria](../../../ch-4-esterfell-gazetteer/esterfell/barria.md) and [Yggru](../../../ch-4-esterfell-gazetteer/esterfell/yggru/index.md).
 
 ## Gnomish lineages
 
@@ -46,4 +46,4 @@ The temperate forests of Lenya, particularly the [Eastern Forests](../../../ch-4
 
 #### Distribution
 
-Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as the artificial island on which [Cape Bec](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
+Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/index.md)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as the artificial island on which [Cape Bec](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/index.md) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.

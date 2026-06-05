@@ -1,6 +1,6 @@
 # Jedha
 
-**Jedha** is an elf mage currently working with [The Commune](../).
+**Jedha** is an elf mage currently working with [The Commune](../index.md).
 
 ## Information
 

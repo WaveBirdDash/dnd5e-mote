@@ -1,6 +1,6 @@
 # Supernatural Gifts
 
-Some [deities of Mote](../ch-3-stories/of/mote/pantheons/) might bestow great blessing and gifts upon their devoted followers. The following supernatural gifts are available to characters who perform great deeds of heroism on behalf of their gods or divine domains.
+Some [deities of Mote](../ch-3-stories/of/mote/pantheons/index.md) might bestow great blessing and gifts upon their devoted followers. The following supernatural gifts are available to characters who perform great deeds of heroism on behalf of their gods or divine domains.
 
 ## Blessing of Foresight
 
