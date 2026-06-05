@@ -27,7 +27,5 @@ jobs:
           fileMasks: "*.md"
           logLevel: warn
           lookupPath: ./docs
-          localPath:
-            enabled: true
-          http:
-            enabled: false
+          localPath: true
+          http: false
