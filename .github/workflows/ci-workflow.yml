@@ -16,9 +16,3 @@ jobs:
         uses: your-ko/link-validator@2.4.0
         with:
           lookupPath: ./docs/
-          validators:
-            http:
-              enabled: false
-            localPath:
-              enabled: true
-
