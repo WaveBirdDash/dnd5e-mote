@@ -1,6 +1,6 @@
 # Krueger
 
-**Krueger** heads the [Redgrave](../../../societies/esterfell-accord/redgrave.md) chapter of [Reynard's Den](../reynards-den.md).
+**Krueger** heads the [Redgrave](../../../societies/esterfell-accord/redgrave.md) chapter of [Reynard's Den](../).
 
 ## Information
 

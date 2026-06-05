@@ -1,0 +1,9 @@
+fileMasks:
+  - "*.md"
+logLevel: warn
+lookupPath: ./docs
+validators:
+  localPath:
+    enabled: true
+  http:
+    enabled: false

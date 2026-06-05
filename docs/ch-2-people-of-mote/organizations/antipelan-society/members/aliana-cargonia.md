@@ -12,7 +12,7 @@
 
 ### Physical
 
-- species: [ithilian](https://www.dndbeyond.com/races/1122421-ithilian)
+- species: Ithilian fairy
 - age: 27
 - height: 7 in.
 - weight: 1 lb.
