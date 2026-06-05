@@ -9,11 +9,11 @@
 
 ## Distribution
 
-Ceteans originate from distant regions of Fellspace, where they swam through [starstuff](../../ch-6-mote-treasures/starstuff.md) nebulas and thrived off of the material's magical nourishment. These free-flying pods were drawn to the starstuff regularly bombarding Mote, and eventually took up permanent residence in the world's bountiful oceans. The gift of Echospeak possessed by all ceteans meant that even when these groups forever left the realm of Fellspace, they continued to communicate with their stellar brethren and share knowledge with the wider cetean community.
+Ceteans originate from distant regions of Fellspace, where they swam through [starstuff](../../../ch-6-mote-treasures/starstuff.md) nebulas and thrived off of the material's magical nourishment. These free-flying pods were drawn to the starstuff regularly bombarding Mote, and eventually took up permanent residence in the world's bountiful oceans. The gift of Echospeak possessed by all ceteans meant that even when these groups forever left the realm of Fellspace, they continued to communicate with their stellar brethren and share knowledge with the wider cetean community.
 
 After a massive starstuff asteroid impacted with Esterfell, many cetean pods came to the new land, eventually becoming founding members of the nation of [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md).
 
-Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/), with the largest groups settling along the northern coasts of [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/). They mostly stay away from the continent's land-bound societies, but occasionally can be found in port cities to engage in trade.
+Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gazetteer/esterfell/coasts/) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/), with the largest groups settling along the northern coasts of [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/). They mostly stay away from the continent's land-bound societies, but occasionally can be found in port cities to engage in trade.
 
 ## Traits
 
