@@ -14,24 +14,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Get changed files
-        id: changed-files
+      - name: Get Markdown files
+        id: get-files
         shell: bash
         run: |
-          # Get the base branch (target of PR)
-          BASE_SHA="${{ github.event.pull_request.base.sha }}"
-          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
-
-          # Get only added and modified files (exclude deleted files)
-          CHANGED_FILES=$(git diff --name-only --diff-filter=AM $BASE_SHA..$HEAD_SHA)
-
-          echo "Changed files in this PR (excluding deleted):"
-          echo "$CHANGED_FILES"
-
-          FILES_LIST=$(echo "$CHANGED_FILES" | tr '\n' ',' | sed 's/,$//')
+          FILES_LIST=$(find -s -name "*.md" docs/ | tr '\n' ',' | sed 's/,$//')
           echo "files=$FILES_LIST" >> $GITHUB_OUTPUT
       - name: Run Link Validator
         uses: your-ko/link-validator@2.4.0
         with:
-          files: ${{ steps.changed-files.outputs.files}}
-          lookupPath: ./docs/
+          files: ${{ steps.get-files.outputs.files}}
