@@ -18,7 +18,9 @@ The **Atæron Mining Consortium** was a company formed by multiple wealthy famil
 - **Demographics:** elf (wood), fey, gnome (forest)
 - **Demonyms:** Dorian, Minan, Feyfolk
 
-In ancient times, an elvish princess of **Doria** happened upon a [waypoint](../ch-3-stories-of-mote/waypoints.md) and crossed into **Mina**, a sovereign province within the Feywild. Wandering through the strange mirrored forests, she found an eladrin imperiled by worgs. The princess bravely slayed the attackers, and the eladrin revealed herself to be the countess of Mina. In gratitude for saving her life, but not wanting to give up anything of value, the Minan countess offered to give the Dorian princess any one item she had to give, but said that she must ask for it without further thought or hesitation. The princess, well-read in fairytales, asked the countess for her heart, and the two were soon wed.
+In ancient times, an elvish princess of **Doria** happened upon a [waypoint](../ch-3-stories-of-mote/waypoints.md) and crossed into **Mina**, a sovereign province within the Feywild. Wandering through the strange mirrored forests, she found an eladrin imperiled by worgs. The princess bravely slayed the attackers, and the eladrin revealed herself to be the countess of Mina.
+
+In gratitude for saving her life, but trying to avoid giving up anything of value, the Minan countess offered the Dorian princess a riddle: she would grant her savior any one gift she had on her person, but said that she must ask for it without further thought or hesitation, with the risk of asking for something that was not available to give and thus gaining nothing. The princess, well-versed in fairytales, asked the countess for her heart. Smitten and impressed with the princess' cleverness, the countess agreed, and the two were soon wed.
 
 As a result of this unusual transplanar union, the arcanists of Doria and the courts of Mina combined their magical knowledge to construct a great arch to hold open the waypoint, transforming it into a permanent stable gateway linking the two countries together. In this manner was the cross-worlds kingdom of **Dormina** formed.
 
