@@ -10,10 +10,10 @@
 
 By merit of Xiahulia's oceanic region, its people all necessarily have some ability to survive mostly or fully underwater. The following species all possess such adaptations and can typically be found among Xiahulia's citizenry:
 
-- [Brakko](../../ch-5-character-options/species/brakko/index.md)
-- [Cetean](../../ch-5-character-options/species/ceteans/index.md)
-- [Pescan](../../ch-5-character-options/species/pescans/index.md)
-- [Selkie](../../ch-5-character-options/species/selkie/index.md)
+- [Brakko](../../ch-5-character-options/mote-species/brakko/index.md)
+- [Cetean](../../ch-5-character-options/mote-species/ceteans/index.md)
+- [Pescan](../../ch-5-character-options/mote-species/pescans/index.md)
+- [Selkie](../../ch-5-character-options/mote-species/selkie/index.md)
 
 ## Etymology
 
