@@ -14,7 +14,7 @@ The spells are presented in alphabetical order.
 
 ### Kyran's Gambit
 
-_Level 1 Abjuration_ (Rogue (Fatestitcher), Warlock)
+_Level 1 Abjuration_ (Rogue (Arcane Trickster, Fateshifter), Warlock)
 
 - **Casting Time:** Action
 - **Range:** Touch
