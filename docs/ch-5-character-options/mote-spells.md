@@ -5,7 +5,7 @@ This section contains new spells developed in the world of [Mote](../ch-1-welcom
 ##### Mote Spells
 | Level | Spell | School | Class | Tags |
 |:-:|:-|:-|:-|:-|
-| 1st | _[Kyran's Gambit](#kyrans-gambit)_ | Abjuration | Rogue (Arcane Trickster, [Fateshifter](mote-subclasses/index.md#fateshifter-rogue)), Warlock | Concentration |
+| 1st | _[Kyran's Gambit](#kyrans-gambit)_ | Abjuration | Rogue ([Fateshifter](mote-subclasses/index.md#fateshifter-rogue)), Warlock | Concentration |
 | 2nd | _[Pass Without Note](#pass-without-note)_ | Enchantment | Bard, Sorcerer, Warlock, Wizard | Concentration |
 
 ## Spell Descriptions
@@ -14,7 +14,7 @@ The spells are presented in alphabetical order.
 
 ### Kyran's Gambit
 
-_Level 1 Abjuration_ (Rogue (Arcane Trickster, [Fateshifter](mote-subclasses/index.md#fateshifter-rogue)), Warlock)
+_Level 1 Abjuration_ (Rogue ([Fateshifter](mote-subclasses/index.md#fateshifter-rogue)), Warlock)
 
 - **Casting Time:** Action
 - **Range:** Touch
