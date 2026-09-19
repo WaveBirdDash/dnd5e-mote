@@ -20,9 +20,15 @@ _**Spell Slots.**_ The Fateshifter Spellcasting table shows how many spell slots
 <table>
   <thead>
     <tr>
-      <th>Rogue Level</th>
-      <th>Prepared Spells</th>
+      <th rowspan="2">Rogue Level</th>
+      <th rowspan="2">Prepared Spells</th>
       <th colspan="4">—Spell Slots per Spell Level—</th>
+    </tr>
+    <tr>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
     </tr>
   </thead>
   <tbody>
