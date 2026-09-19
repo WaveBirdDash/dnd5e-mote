@@ -2,6 +2,7 @@
 
 ## Contents
 
-- [Species](species/index.md)
+- [Mote Subclasses](mote-subclasses/index.md)
+- [Mote Species](species/index.md)
 - [Mote Spells](mote-spells.md)
 - [Supernatural Gifts](supernatural-gifts.md)
