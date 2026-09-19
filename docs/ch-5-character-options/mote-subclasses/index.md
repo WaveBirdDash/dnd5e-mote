@@ -190,9 +190,9 @@ _**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Sorce
 _**Spellcasting Focus.**_ You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 
 ### Level 3: Gambler's Luck
-You've always done better in a one-on-one fight, but you know well the risk of isolating yourself with an enemy. You always have the _Kyran's Gambit_ spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+You've always done better in a one-on-one fight, but you know well the risk of isolating yourself with an enemy. You always have the _[Kyran's Gambit](../mote-spells.md#kyrans-gambit)_ spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
-When you use this feature to cast _Kyran's Gambit_, while you and the target remain in the spell's demiplane, you also gain an additional way to use your Sneak Attack; you don’t need Advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don’t have Disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.
+When you use this feature to cast _[Kyran's Gambit](../mote-spells.md#kyrans-gambit)_, while you and the target remain in the spell's demiplane, you also gain an additional way to use your Sneak Attack; you don’t need Advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don’t have Disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.
 
 ### Level 9: Chaotic Outburst
 You learn how to channel your raw emotion into magical energy and use it against your enemies, at the risk of exposing yourself to the same negative energy. You gain the following Cunning Strike option.
@@ -215,6 +215,6 @@ _**Chaotic Strike (Cost: 5d6).**_ You channel raw chaotic magic into your weapon
 You gain the ability to steal magical energy from the spells of others and use it to your benefit. You always have _Counterspell_ and _Dispel Magic_ prepared. When you successfully use one of these spells to dissipate or end a spell effect, you gain a mote of spell energy. When you use your Chaotic Outburst feature with your Cunning Strike, you can expend one mote to choose the desired effect from the Chaotic Outburst table instead of rolling. You can possess a number of motes of spell energy up to your Charisma modifier. If you finish a Long Rest and do not have any motes, you gain 1 mote.
 
 ### Level 17: Spell Retribution
-Immediately after you are subjected to a spell effect from a creature within 30 feet, you can cast _Kyran's Gambit_ as a Reaction targeting the creature, even if the creature is out of the spell's normal range. The spell doesn't require Concentration when cast using this feature. If you don't have any spell slots or uses of Gambler's Luck left when you use this feature, the spell can be cast without expending a spell slot.
+Immediately after you are subjected to a spell effect from a creature within 30 feet, you can cast _[Kyran's Gambit](../mote-spells.md#kyrans-gambit)_ as a Reaction targeting the creature, even if the creature is out of the spell's normal range. The spell doesn't require Concentration when cast using this feature. If you don't have any spell slots or uses of Gambler's Luck left when you use this feature, the spell can be cast without expending a spell slot.
 
-Once you successfully cast _Kyran's Gambit_ with this feature, you can’t use this feature again until you finish a Long Rest.
+Once you successfully cast _[Kyran's Gambit](../mote-spells.md#kyrans-gambit)_ with this feature, you can’t use this feature again until you finish a Long Rest.
