@@ -36,7 +36,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Chapter 5: Character Options](ch-5-character-options/index.md)
 
-- [Species](ch-5-character-options/species/index.md)
+- [Species](ch-5-character-options/mote-species/index.md)
 - [Mote Spells](ch-5-character-options/mote-spells.md)
 - [Supernatural Gifts](ch-5-character-options/supernatural-gifts.md)
 
