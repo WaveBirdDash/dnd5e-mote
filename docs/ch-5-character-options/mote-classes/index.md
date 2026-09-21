@@ -210,7 +210,7 @@ _**Chaotic Strike (Cost: 5d6).**_ You channel raw chaotic magic into your weapon
 | 4 | The target glows red hot and takes 2d8 Fire damage at the start of each of its turns for the duration. |
 | 5 | The target is struck by lightning and takes 2d10 Lightning damage. Additionally, other creatures within 5 feet of the target take 1d10 Lightning damage. |
 | 6 | The target gains Vulnerability to Bludgeoning, Piercing, and Slashing damage for the duration. |
-| 7 | The target gains one level of Exhaustion for the duration. |
+| 7 | The target gains 1 Exhaustion level which lasts for the duration. |
 | 8 | The target is slowly drained of life. It takes 2d6 Necrotic damage at the start of each of its turns, and a random creature within 30 feet regains the same number of Hit Points. |
 
 ### Level 13: Stacking the Deck
