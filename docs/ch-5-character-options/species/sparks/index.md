@@ -14,32 +14,32 @@ There are no larger societal distributions of sparks, as the nature of their cre
 
 - _**Creature Type:**_ Construct
 - _**Size:**_ Tiny (1-2 feet tall), Small (2-4 feet tall), or Medium (4-7 feet tall), chosen when you select this species
-- _**Speed:**_ 10 feet (Tiny) or 30 feet (Small or Medium), Fly 25 feet (Tiny)
+- _**Speed:**_ 10 feet, Fly 25 feet (Tiny); or 30 feet (Small or Medium)
 - _**Resistances:**_ Poison; Paralyzed (**Mechanical Nature**)
 - _**Life Span:**_ unknown (immune to magical aging effects)
 
 As a spark, you have the following special traits.
 
-_**Mechanical Nature.**_ Your artificial body grants the following benefits:
+_**Construct Resilience.**_ You have Resistance to Poison and to the Paralyzed condition.
 
-- You have Resistance to Poison and to the Paralyzed condition.
-- You don't need to eat, drink, or breathe.
-- If the _Mending_ spell is cast on you, you can spend and roll one of your Hit Point Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+_**Power Cycle.**_ You can perform a self-diagnostic for 1 minute, causing you to briefly power down your systems and restart them to refresh your body. During this time, you have the Unconscious condition. At the end of this power cycle, you regain a number of expended Hit Point Dice equal to your Proficiency Bonus. Once you use this trait, you can't do so again until you finish a Long Rest.
 
-_**Power Cycle.**_ You can perform a self-diagnostic for 1 minute, causing you to briefly power down your systems and restart them to refresh your body. At the end of this power cycle, you regain a number of expended Hit Point Dice equal to your Proficiency Bonus. Once you use this feature, you can't do so again until you finish a Long Rest.
+_**Self-Repair.**_ As a Magic action, you can expend one of your Hit Point Dice and roll it to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point). You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-_**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
+_**Sentry's Rest.**_ You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 6 hours if you spend those hours in an inactive, motionless state. During this time, you appear inert but remain conscious.
 
-_**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the specializations from the **Specialized Design** table to gain the listed traits, including proficiency in either a skill or a tool, and one cantrip. Constitution is your spellcasting ability for cantrips you learn with this trait, and you can cast them without material components. You can spend your Hit Point Dice using the listed additional trait option a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
+_**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the specializations from the **Specialized Design** table to gain the listed traits, including proficiency in either a skill or a tool, and one cantrip. Constitution is your spellcasting ability for cantrips you learn with this trait, and you can cast them without material components. Using your Hit Point Dice to use the listed additional trait option expends one use of your Self-Repair trait.
 
 Whenever you gain a class level, you can replace your selected specialization and all its associated abilities with another one.
 
 ##### Specialized Design
 | Specialization | Proficiency | Cantrip | Additional Trait |
 |:--------------:|:-------------:|:-------:|:-----------------|
-| **Acolyte** | Religion | _Guidance_ | As a Magic action, you can spend and roll one of your Hit Point Dice to cause another creature you touch to regain a number of Hit Points equal to the roll. |
-| **Courtier** | Persuasion | _Friends_ | You learn one language of your choice. As a Magic action, you can spend one of your Hit Point Dice to replace this language with another one of your choice. |
-| **Infiltrator** | Stealth | _Minor Illusion_ | Once on each of your turns when you take the Hide action, you can spend and roll one of your Hit Point Dice to add the number rolled to the check. |
-| **Scribe** | History | _Dancing Lights_ | Once on each of your turns when you take the Study action, you can spend and roll one of your Hit Point Dice to add the number rolled to the check. |
-| **Soldier** | Athletics | _True Strike_ | As a Reaction to being hit by an attack from a creature you can see, you can spend one of your Hit Point Dice to add your Proficiency Bonus to your Armor Class until the start of your next turn, potentially turning the hit into a miss. |
-| **Tinker** | An Artisan's Tool of your choice | _Mending_ | Once on each of your turns when you take the Utilize action, you can spend and roll one of your Hit Point Dice to add the number rolled to the check. |
+| **Acolyte** | Religion | _Guidance_ | As a Magic action, you can expend one of your Hit Point Dice and roll it to cause a creature you touch to regain a number of Hit Points equal to the roll. |
+| **Courtier** | Persuasion | _Friends_ | You learn one language of your choice. As a Magic action, you can expend one of your Hit Point Dice to replace this language with another one of your choice. |
+| **Infiltrator** | Stealth | _Minor Illusion_ | Once on each of your turns when you take the Hide action, you can expend one of your Hit Point Dice and roll it to add the number rolled to the check. |
+| **Scribe** | History | _Dancing Lights_ | Once on each of your turns when you take the Study action, you can expend one of your Hit Point Dice and roll it to add the number rolled to the check. |
+| **Soldier** | Athletics | _True Strike_ | As a Reaction to being hit by an attack from a creature you can see, you can expend one of your Hit Point Dice and roll it to add the amount rolled to your Armor Class until the start of your next turn, potentially turning the hit into a miss. |
+| **Tinker** | An Artisan's Tool of your choice | _Mending_ | Once on each of your turns when you take the Utilize action, you can expend one of your Hit Point Dice and roll it to add the number rolled to the check. |
+
+_**Tireless**_. You don't gain Exhaustion levels from dehydration, malnutrition, or suffocation.
