@@ -1,4 +1,4 @@
-# Mote Subclasses
+# Mote Classes
 
 ## Fateshifter Rogue
 _Channel Fortune with Chaos Magic_
