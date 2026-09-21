@@ -4,7 +4,7 @@ This chapter is full of new character options you can use to make characters sui
 
 ## Contents
 
-- [Mote Subclasses](mote-classes/index.md)
+- [Mote Classes](mote-classes/index.md)
 - [Mote Species](species/index.md)
 - [Mote Spells](mote-spells.md)
 - [Supernatural Gifts](supernatural-gifts.md)
