@@ -1,4 +1,6 @@
-# Mote Subclasses
+# Mote Classes
+
+This section presents new subclasses appropriate for characters in the Mote setting.
 
 ## Fateshifter Rogue
 _Channel Fortune with Chaos Magic_
