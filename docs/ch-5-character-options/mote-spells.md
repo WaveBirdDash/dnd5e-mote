@@ -5,7 +5,7 @@ This section contains new spells developed in the world of [Mote](../ch-1-welcom
 ##### Mote Spells
 | Level | Spell | School | Class | Tags |
 |:-:|:-|:-|:-|:-|
-| 1st | _[Kyran's Gambit](#kyrans-gambit)_ | Abjuration | Rogue (Arcane Trickster), Warlock | Concentration |
+| 1st | _[Kyran's Gambit](#kyrans-gambit)_ | Abjuration | Rogue (Fateshifter), Warlock | Concentration |
 | 2nd | _[Pass Without Note](#pass-without-note)_ | Enchantment | Bard, Sorcerer, Warlock, Wizard | Concentration |
 
 ## Spell Descriptions
@@ -14,7 +14,7 @@ The spells are presented in alphabetical order.
 
 ### Kyran's Gambit
 
-_Level 1 Abjuration_ (Rogue (Arcane Trickster), Warlock)
+_Level 1 Abjuration_ (Rogue (Fateshifter), Warlock)
 
 - **Casting Time:** Action
 - **Range:** Touch
@@ -23,13 +23,17 @@ _Level 1 Abjuration_ (Rogue (Arcane Trickster), Warlock)
 
 Preparing this spell enters you into a contract with a mysterious being from another realm. Replacing this spell with another one does not end this contract.
 
-You attempt to drag a creature you touch to another plane of existence to confront them alone. The target must make a Charisma saving throw. On a successful save, the spell fails. The spell also fails if you or the target are prevented from planeshifting.
+You attempt to trap a creature you touch in a confined space with you to engage in a duel. The target must make a Charisma saving throw. On a successful save, the spell fails.
 
-On a failed save, both you and the target are banished to a demiplane for the duration. The demiplane takes on a disturbing appearance of your choice each time you enter it. Damage dealt to a creature in this demiplane that would reduce them to 0 Hit Points instead reduces them to 1 Hit Point. A creature that starts their turn in the demiplane is wracked with pain and mental torment, taking 2d8 Psychic damage. When you take this damage, it can't be reduced or prevented in any way, but it doesn't break your Concentration to maintain this spell. Once the spell ends, all creatures in the demiplane are returned to their original locations. Removing you or the target from the demiplane also ends the spell.
+On a failed save, for the spell's duration, both you and the target are trapped within a ring of invisible force in a 15-foot radius Sphere centered on the target's original location. The Sphere takes on a disturbing illusory appearance of your choice each time you create it. Creatures and objects are barred from passing through the Sphere. Spells of a level lower than the spell slot level used to cast this spell can't be cast through it, and the effects of such spells can't extend into it.
+
+A creature that starts its turn in the Sphere is wracked with pain and mental torment, taking 1d8 Psychic damage. When you take this damage, it can't be reduced or prevented in any way, but it doesn't break your Concentration to maintain this spell.
+
+Damage dealt to a creature in this Sphere that would reduce it to 0 Hit Points instead reduces it to 1 Hit Point, which also ends the spell. Once the spell ends, the ring of force disappears. Removing you or the target from the Sphere also ends the spell.
 
 After the spell ends, or if the spell fails, the target is immune to this spell for the next 24 hours.
 
-_**Using a Higher-Level Spell Slot.**_ The damage dealt by starting a turn in the demiplane increases by 1d8 for each spell slot level above 1. Additionally, if you use a level 6+ spell slot, the spell doesn't require Concentration.
+_**Using a Higher-Level Spell Slot.**_ The damage dealt by starting a turn in the Sphere increases by 1d8 for each spell slot level above 1. Additionally, if you use a level 6+ spell slot, the spell doesn't require Concentration.
 
 ### Pass Without Note
 
