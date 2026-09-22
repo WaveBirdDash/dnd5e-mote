@@ -211,7 +211,7 @@ _**Chaotic Strike (Cost: 5d6).**_ You channel raw chaotic magic into your weapon
 | 5 | The target is struck by lightning and takes 2d10 Lightning damage. Additionally, other creatures within 5 feet of the target take 1d10 Lightning damage. |
 | 6 | The target gains Vulnerability to Bludgeoning, Piercing, and Slashing damage for the duration. |
 | 7 | The target gains 1 Exhaustion level which is removed when the duration ends. |
-| 8 | The target is slowly drained of life. It takes 2d6 Necrotic damage at the start of each of its turns, and a random creature within 30 feet regains the same number of Hit Points. |
+| 8 | The target is slowly drained of life. It takes 2d6 Necrotic damage at the start of each of its turns, and a random creature within 30 feet regains a number of Hit Points equal to the damage taken. |
 
 ### Level 13: Stacking the Deck
 You gain the ability to steal magical energy from the spells of others and use it to your benefit. You always have _Counterspell_ and _Dispel Magic_ prepared. When you successfully use one of these spells to dissipate or end a spell effect, you gain a mote of spell energy. When you use your Chaotic Outburst feature with your Cunning Strike, you can expend one mote to choose the desired effect from the Chaotic Outburst table instead of rolling. You can possess a number of motes of spell energy up to your Charisma modifier. If you finish a Long Rest and do not have any motes, you gain 1 mote.
