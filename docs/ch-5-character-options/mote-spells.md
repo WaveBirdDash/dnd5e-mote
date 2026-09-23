@@ -23,7 +23,7 @@ _Level 1 Abjuration_ (Rogue (Fateshifter), Warlock)
 
 Preparing this spell enters you into a contract with a mysterious being from another realm. Replacing this spell with another one does not end this contract.
 
-You attempt to trap a creature you touch in a confined space with you to engage in a duel. The target must make a Charisma saving throw. On a successful save, the spell fails.
+You attempt to trap a creature you touch in a confined space with you to confront them alone. The target must make a Charisma saving throw. On a successful save, the spell fails.
 
 On a failed save, for the spell's duration, both you and the target are trapped within a ring of invisible force in a 15-foot radius Sphere centered on the target's original location. The Sphere takes on a disturbing illusory appearance of your choice each time you create it. Creatures and objects are barred from passing through the Sphere. Spells of a level lower than the spell slot level used to cast this spell can't be cast through it, and the effects of such spells can't extend into it.
 
