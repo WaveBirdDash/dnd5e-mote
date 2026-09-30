@@ -12,7 +12,7 @@
 
 ### Physical
 
-- species: [pescan](../../../../ch-5-character-options/species/pescans/index.md)
+- species: [pescan](../../../../ch-5-character-options/mote-species/pescans/index.md)
 
 ## History
 

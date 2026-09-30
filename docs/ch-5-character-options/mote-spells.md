@@ -13,7 +13,6 @@ This section contains new spells developed in the world of [Mote](../ch-1-welcom
 The spells are presented in alphabetical order.
 
 ### Kyran's Gambit
-
 _Level 1 Abjuration_ (Rogue ([Fateshifter](mote-classes/index.md#fateshifter-rogue)), Warlock)
 
 - **Casting Time:** Action
