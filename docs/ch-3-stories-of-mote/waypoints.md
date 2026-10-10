@@ -20,7 +20,7 @@ When a waypoint is created, a corresponding portal appears in another plane of e
 | 1   | Another world in the Material Plane |
 | 2-5 | The Feywild |
 | 6-9 | The Shadowfell |
-| 10  | Inner Planes. Roll 2d4 to determine the intersection of Elemental Planes. The result depends on the value of each die: 1 for Air, 2 for Earth, 3 for Fire, 4 for Water. The same result on both dice opens a door to the corresponding plane, and two different results open a door to a Para-elemental Plane combining the two. For example, rolling two 4s opens a door to the Plae of Water, whereas rolling a 2 and a 3 opens a door to the Plane of Magma. |
+| 10  | Inner Planes. Roll 2d4 to determine the intersection of Elemental Planes. The result depends on the value of each die: 1 for Air, 2 for Earth, 3 for Fire, 4 for Water. The same result on both dice opens a door to the corresponding plane, and two different results open a door to a Para-elemental Plane combining the two. For example, rolling two 4s opens a door to the Plane of Water, whereas rolling a 2 and a 3 opens a door to the Plane of Magma. |
 | 11  | Outer Planes |
 | 12  | Positive Plane |
 | 13  | Negative Plane |
